@@ -9,12 +9,12 @@ eliminating the need for offset calibration.
 
 # Key Performance Metrics
 
+<img width="572" height="279" alt="150-150" src="https://github.com/user-attachments/assets/faae50ed-26c4-4f6c-93f7-338cb49ccbdf" />
+
  ###  Precision (Repeatability):   1.5 Microns (0.0015 mm) verified.
  ###  Typical Standard Deviation : 0.001369 mm (Validated in Klipper).
  ###  Zero Offset: Probes directly with the nozzle — no X/Y offset calibration required.
  ###   Thermal Stability: Remote control board isolates electronics from hot-end heat soak.
-
-<img width="572" height="279" alt="150-150" src="https://github.com/user-attachments/assets/faae50ed-26c4-4f6c-93f7-338cb49ccbdf" />
 
 ### Hardware Features
 
