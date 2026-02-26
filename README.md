@@ -27,6 +27,13 @@ Tru-Touch v1.2 uses a specialized safety-interlock pin-out. You **MUST** rearran
 - `TruTouch_v1.2_Manual.pdf`: Full technical specs, wiring diagrams, and Klipper configuration
 - `TruTouch_v1.2_Mechanical.step`: 3D model for designing custom mounts
 - `LICENSE`: Licensed under CC BY-ND 4.0 (Commercial use permitted)
+- `README.md`: Run page of the Tru-Touch Probe and its features
+- `TruTouch_v1.2_Mechanical.step`: 3D model for designing custom mounts.
+- `LICENSE`: Licensed under CC BY-ND 4.0 (Commercial use permitted).
+- `Physical-Installation.pdf`: Full technical specs and physical installation instructions.
+- `Klipper_Integration_Guide.pdf`: Detailed Klipper integration instructions.
+- `Probe_Tuning_Guide.pdf`: Step by step guide on probe tuning for best performance
+- `Printing_notes.pdf`: Some notes on leveling and printing with the Tru-Touch Probe
 
 ### Beta Testing & Inquiries
 Currently looking for beta testers with rigid-frame machines (Voron, RatRig, etc.) and hard surfaces (glass, G10, ceramic).  
