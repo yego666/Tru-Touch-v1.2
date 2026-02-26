@@ -24,9 +24,6 @@ It achieves sub-micron precision by using the **nozzle itself** as the trigger p
 Tru-Touch v1.2 uses a specialized safety-interlock pin-out. You **MUST** rearrange your JST/DuPont connector to match the TRU-TOUCH row before applying power.
 
 ### Repository Contents
-- `TruTouch_v1.2_Manual.pdf`: Full technical specs, wiring diagrams, and Klipper configuration
-- `TruTouch_v1.2_Mechanical.step`: 3D model for designing custom mounts
-- `LICENSE`: Licensed under CC BY-ND 4.0 (Commercial use permitted)
 - `README.md`: Run page of the Tru-Touch Probe and its features
 - `TruTouch_v1.2_Mechanical.step`: 3D model for designing custom mounts.
 - `LICENSE`: Licensed under CC BY-ND 4.0 (Commercial use permitted).
