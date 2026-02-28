@@ -1,5 +1,11 @@
 # Tru-Touch v1.2 – 1.5-Micron Precision Nozzle-Contact Probe for 3D Printers
 
+## 🚀 Beta Program (v1.2) - EU Only
+I have **5 units** available for technical beta testing.
+- **How to apply:** [Open a GitHub Issue](https://github.com) titled "Beta Application".
+- **Requirements:** EU shipping address and a rigid-frame printer (Voron/RatRig).
+- **Cost:** Shipping only (~€8–15).
+
 **Tru-Touch v1.2** is an intelligent, piezoelectric nozzle-contact probe designed for 3D printers.  
 It achieves sub-micron precision by using the **nozzle itself** as the trigger point — eliminating offset calibration.
 
