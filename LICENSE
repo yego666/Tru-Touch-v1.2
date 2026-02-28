@@ -8,6 +8,8 @@ By using, distributing, or purchasing the Tru-Touch v-1.2 hardware, you agree to
                         you may not distribute the modified material. 
                         You are encouraged to design and share mechanical mounting brackets, 
                         but the core hardware and firmware are proprietary.
+    Exception:          Users are expressly permitted to design, share, and distribute mechanical mounting brackets (STL/STEP files) 
+                        that interface with the Tru-Touch hardware.
     Commercial Use Permitted: This license does not restrict commercial use. 
                         Individual users, print farms, and OEM manufacturers are permitted to purchase 
                         and integrate Tru-Touch v-1.2 into their commercial systems or products.
