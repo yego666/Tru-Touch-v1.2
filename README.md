@@ -48,4 +48,4 @@ Tru-Touch v1.2 uses a specialized safety-interlock pin-out. You **MUST** rearran
 Currently looking for beta testers with rigid-frame machines (Voron, RatRig, etc.) and hard surfaces (glass, G10, ceramic).  
 Contact me on Discord: **@yego6833** (Voron Design server).
 
-Full Installation Guide: [TruTouch_v1.2_Manual.pdf]([TruTouch_v1.2_Manual.pdf](https://github.com/yego666/Tru-Touch-v1.2/blob/main/docs/guides/physical-installation.pdf))
+Full Installation Guide: [TruTouch_v1.2_Manual.pdf](https://github.com/yego666/Tru-Touch-v1.2/blob/main/docs/guides/physical-installation.pdf))
