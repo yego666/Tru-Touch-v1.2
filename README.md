@@ -32,7 +32,7 @@ It achieves sub-micron precision by using the **nozzle itself** as the trigger p
 ![Tru-Touch Probe](https://github.com/user-attachments/assets/f33079d9-465f-4ba6-b584-bb27677e49cc)
 
  ***Note*** : Battery not included.
-### CRITICAL: RE-PINNING REQUIRED
+### CRITICAL: SIMPLE PLUG RE-PINNING REQUIRED
 Tru-Touch v1.2 uses a specialized safety-interlock pin-out. You **MUST** rearrange your JST/DuPont connector to match the TRU-TOUCH row before applying power.
 
 ### Repository Contents
