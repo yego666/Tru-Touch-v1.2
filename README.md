@@ -4,7 +4,7 @@
 **Beta Program Status: 5 Units Available (EU Only)**
 
 To apply for a beta unit:
-[Click here to open a New Technical Issue](https://github.com[Support]+Short+Description+of+Issue&body=###+System+Information%0A-+**Printer+Kinematics:**+%0A-+**Klipper+Version:**+%0A-+**MCU+Board:**+%0A-+**Extruder+Type:**+%0A%0A###+Description%0APlease+describe+the+behavior+you+are+seeing+and+attach+any+relevant+log+files+or+photos+of+your+mount.)
+[Click here to open a New Technical Issue](https://github.com[Support]+Issue+Description&body=###+System+Information%0A-+Printer+Kinematics:+%0A-+Klipper+Version:+%0A-+MCU+Board:+%0A-+Extruder+Type:+%0A%0A###+Description%0APlease+describe+the+behavior.)
 
 1. [**Open a New Issue here**](https://github.com) 
 2. **Title:** Beta Application - [Your Printer Model]
