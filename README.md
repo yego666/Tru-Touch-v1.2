@@ -14,16 +14,20 @@ It achieves sub-micron precision by using the **nozzle itself** as the trigger p
 ### Key Performance Metrics
 <img width="572" height="279" alt="150-150" src="https://github.com/user-attachments/assets/faae50ed-26c4-4f6c-93f7-338cb49ccbdf" />
 
-- **Precision (Repeatability)**: 1.5 Microns (0.0015 mm) verified
-- **Typical Standard Deviation**: 0.001369 mm (validated in Klipper)
-- **Zero Offset**: Probes directly with the nozzle — no X/Y offset calibration required
-- **Thermal Stability**: Remote control board isolates electronics from hot-end heat soak
+- **Precision (Repeatability)**:  1.5 Microns (0.0015 mm) verified
+- **Typical Standard Deviation**: 0.001369 mm (validated in Klipper, stats provided)
+- **Zero Offset on All Axes**:    Probes directly with the nozzle — no X/Y offset calibration
+- **Thermal Stability**:          Controller board detached from piezo sensor
+- **No Maintenance Solution**:    Install, Fine-tune, Set up, and forget.
+- **Perfect for Adaptive Bed Meshing**: Works perfectly with native Klipper Adaptive Bed Meshing
+- **Performance Constantly Improving**: Ongoing R & D for better performance, and broader printer base
 
 ### Hardware Features
 - **One-Screw Mounting**: Minimalist carriage mount; adds negligible mass to the toolhead
-- **Hybrid Processing**: Analog preconditioning + DSP for superior noise rejection
-- **Visual Feedback**: Dual LEDs with heartbeat and real-time contact-blink patterns
-- **User Tunable**: Onboard potentiometer to match trigger threshold to your gantry resonance
+- **Easy Installation**:  Reuses existing BL-Touch cabling with minor adjustments
+- **Hybrid Processing**:  Analog preconditioning + DSP for superior noise rejection
+- **Visual Feedback**:    Dual LEDs with heartbeat and real-time contact-blink patterns
+- **User Tunable**:       Onboard potentiometer to match trigger threshold to your gantry resonance
 
 ![Tru-Touch Probe](https://github.com/user-attachments/assets/f33079d9-465f-4ba6-b584-bb27677e49cc)
 
