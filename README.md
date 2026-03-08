@@ -37,7 +37,10 @@ Tru-Touch v1.2 uses a specialized safety-interlock pin-out. You **MUST** rearran
 - `Printing_notes.pdf`: Some notes on leveling and printing with the Tru-Touch Probe
 
 Installation Guide: [TruTouch_v1.2_Physical-Installation.pdf](https://github.com/yego666/Tru-Touch-v1.2/blob/main/docs/guides/physical-installation.pdf))
+
 klipper_integration_guide: [TruTouch_v1.2_klipper_integration_guide.pdf](https://github.com/yego666/Tru-Touch-v1.2/blob/main/docs/guides/klipper_integration_guide.pdf))
-Installation Guide: [TruTouch_v1.2_Physical-Installation.pdf](https://github.com/yego666/Tru-Touch-v1.2/blob/main/docs/guides/physical-installation.pdf))
-Installation Guide: [TruTouch_v1.2_Physical-Installation.pdf](https://github.com/yego666/Tru-Touch-v1.2/blob/main/docs/guides/physical-installation.pdf))
+
+probe_tuning_guide: [TruTouch_v1.2_probe_tuning_guide.pdf](https://github.com/yego666/Tru-Touch-v1.2/blob/main/docs/guides/probe_tuning_guide.pdf))
+
+printing_notes.: [TruTouch_v1.2_printing_notes.pdf](https://github.com/yego666/Tru-Touch-v1.2/blob/main/docs/guides/printing_notes.pdf))
 
